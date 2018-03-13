@@ -105,3 +105,5 @@ analyzeWord(current)
 sval = sorted(gblWordList.items(), key=lambda x: x[1], reverse=True)
 print sval
 print sval[0][0]
+
+hahaha test
